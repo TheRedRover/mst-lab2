@@ -1,0 +1,9 @@
+bin/
+.classes
+.project
+.settings/
+src/wumpus_OLD/*
+.vscode/
+MTPs-Main-Container.txt
+APDescription.txt
+classes/
